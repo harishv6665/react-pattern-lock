@@ -1,0 +1,21 @@
+.wrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.welcomeText {
+    font-size: 60px;
+    color: #2b5569;
+}
+
+.buttonGroup {
+    margin-top: 30px;
+}
+
+.button {
+    margin: 0 20px;
+}
